@@ -1,0 +1,6 @@
+framework module FFAdFullScreen {
+  umbrella header "FFAdFullScreen.h"
+
+  export *
+  module * { export * }
+}

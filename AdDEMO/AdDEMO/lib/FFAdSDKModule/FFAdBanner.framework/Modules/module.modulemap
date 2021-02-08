@@ -1,0 +1,6 @@
+framework module FFAdBanner {
+  umbrella header "FFAdBanner.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FFAdInsert {
+  umbrella header "FFAdInsert.h"
+
+  export *
+  module * { export * }
+}

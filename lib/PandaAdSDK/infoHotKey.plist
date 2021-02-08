@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>环球网</string>
+	<string>澎湃新闻</string>
+    <string>每日新闻网</string>
+    <string>中国新闻网</string>
+    <string>21世纪经济报道</string>
+    <string>证券时报</string>
+    <string>时代周报</string>
+    <string>观察者网</string>
+    <string>人民日报</string>
+    <string>《封面》</string>
+    <string>央视网</string>
+    <string>国际金融报社</string>
+    <string>第一财经</string>
+    <string>每日经济新闻</string>
+    <string>中央纪委国家监委网站</string>
+    <string>凤凰网特别报道</string>
+    <string>北京青年报</string>
+    <string>央广网</string>
+    <string>新京报</string>
+    <string>新华社</string>
+    <string>央视新闻客户端</string>
+    <string>参考信息</string>
+    <string>中国青年报</string>
+    <string>36氪</string>
+    <string>中国经营报</string>
+    <string>中国新闻周刊</string>
+    <string>中国国家地理地道风物</string>
+    <string>虎嗅网</string>
+    <string>央视新闻</string>
+    <string>凤凰卫视</string>
+</array>
+</plist>

@@ -1,0 +1,6 @@
+framework module FFAdNative {
+  umbrella header "FFAdNative.h"
+
+  export *
+  module * { export * }
+}
