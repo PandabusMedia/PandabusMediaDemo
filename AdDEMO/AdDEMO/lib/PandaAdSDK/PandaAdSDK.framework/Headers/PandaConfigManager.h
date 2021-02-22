@@ -30,5 +30,9 @@
 
 + (void)initSDKWithAppId:(NSString *)appId
                 cityCode:(NSString *)cityCode;
+/**
+ *  获取优惠券商城h5 Url（初始化后调用）
+ */
++ (NSString *)getShopUrl;
 
 @end
