@@ -1,6 +1,0 @@
-framework module FFAdDrawVideo {
-  umbrella header "FFAdDrawVideo.h"
-
-  export *
-  module * { export * }
-}

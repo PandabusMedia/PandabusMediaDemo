@@ -1,6 +1,0 @@
-framework module FFAdStickVideo {
-  umbrella header "FFAdStickVideo.h"
-
-  export *
-  module * { export * }
-}

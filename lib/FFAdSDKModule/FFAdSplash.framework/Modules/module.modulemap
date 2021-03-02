@@ -1,6 +1,0 @@
-framework module FFAdSplash {
-  umbrella header "FFAdSplash.h"
-
-  export *
-  module * { export * }
-}

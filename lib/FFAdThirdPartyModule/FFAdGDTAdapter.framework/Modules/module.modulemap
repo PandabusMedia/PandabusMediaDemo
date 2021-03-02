@@ -1,6 +1,0 @@
-framework module FFAdGDTAdapter {
-  umbrella header "FFAdGDTAdapter.h"
-
-  export *
-  module * { export * }
-}

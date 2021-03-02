@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A80AA3F325AFE175008D71B9 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A80AA3F225AFE175008D71B9 /* libiconv.tbd */; };
+		A80D5F1725EC85F7007CB875 /* PandaAdSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A80D5F1625EC85F7007CB875 /* PandaAdSDK.framework */; };
+		A80D5F1925EC8D18007CB875 /* PBShop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A80D5F1825EC8D18007CB875 /* PBShop.bundle */; };
 		A81F88D0255A7E1700450DBB /* PandaRewardVideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A81F88CF255A7E1700450DBB /* PandaRewardVideoViewController.m */; };
 		A81F88D6255A86DE00450DBB /* PandaNativeExpressAdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A81F88D5255A86DE00450DBB /* PandaNativeExpressAdViewController.m */; };
 		A81F88DF255A974900450DBB /* SaleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A81F88DE255A974900450DBB /* SaleViewController.m */; };
@@ -15,19 +17,13 @@
 		A836AAD7256B8AF8007C2143 /* ADCDN.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A836AAA0256B8AF7007C2143 /* ADCDN.bundle */; };
 		A836AAD8256B8AF8007C2143 /* ADCDN.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A836AAA1256B8AF7007C2143 /* ADCDN.framework */; };
 		A836AAEB256B8AF8007C2143 /* infoHotKey.plist in Resources */ = {isa = PBXBuildFile; fileRef = A836AAD2256B8AF8007C2143 /* infoHotKey.plist */; };
-		A836AAEC256B8AF8007C2143 /* PandaAdSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A836AAD3256B8AF8007C2143 /* PandaAdSDK.framework */; };
 		A836AAEE256B8AF8007C2143 /* PBADMJRefresh.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A836AAD5256B8AF8007C2143 /* PBADMJRefresh.bundle */; };
 		A836AAFF256B920F007C2143 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A836AAFE256B920F007C2143 /* Accelerate.framework */; };
 		A8592201259C436500FF9399 /* PBADPrizeListTableViewCell.nib in Resources */ = {isa = PBXBuildFile; fileRef = A8592200259C436500FF9399 /* PBADPrizeListTableViewCell.nib */; };
 		A85E826225AEBBA90002D5CA /* FFAdSplash.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825925AEBBA80002D5CA /* FFAdSplash.framework */; };
-		A85E826325AEBBA90002D5CA /* FFAdStickVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825A25AEBBA80002D5CA /* FFAdStickVideo.framework */; };
-		A85E826425AEBBA90002D5CA /* FFAdDrawVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825B25AEBBA80002D5CA /* FFAdDrawVideo.framework */; };
 		A85E826525AEBBA90002D5CA /* FFAdExpress.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825C25AEBBA80002D5CA /* FFAdExpress.framework */; };
-		A85E826625AEBBA90002D5CA /* FFAdBanner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825D25AEBBA80002D5CA /* FFAdBanner.framework */; };
 		A85E826725AEBBA90002D5CA /* FFAdRewardVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825E25AEBBA80002D5CA /* FFAdRewardVideo.framework */; };
-		A85E826825AEBBA90002D5CA /* FFAdInsert.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E825F25AEBBA90002D5CA /* FFAdInsert.framework */; };
 		A85E826925AEBBA90002D5CA /* FFAdNative.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E826025AEBBA90002D5CA /* FFAdNative.framework */; };
-		A85E826A25AEBBA90002D5CA /* FFAdFullScreen.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E826125AEBBA90002D5CA /* FFAdFullScreen.framework */; };
 		A85E826D25AEBBBB0002D5CA /* FFAdTTAdapter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E826B25AEBBBB0002D5CA /* FFAdTTAdapter.framework */; };
 		A85E826E25AEBBBB0002D5CA /* FFAdGDTAdapter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E826C25AEBBBB0002D5CA /* FFAdGDTAdapter.framework */; };
 		A85E829725AED99E0002D5CA /* FFAdSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A85E829625AED99E0002D5CA /* FFAdSDK.framework */; };
@@ -59,7 +55,6 @@
 		A87FF0EC2420957F00EB274B /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A87FF0EB2420957F00EB274B /* libxml2.tbd */; };
 		A87FF0EE2420959100EB274B /* libz.1.2.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A87FF0ED2420959100EB274B /* libz.1.2.5.tbd */; };
 		A87FF1412420976A00EB274B /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A87FF1402420976A00EB274B /* libresolv.tbd */; };
-		A885D533256CA95100CE5146 /* PBShop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A885D532256CA95000CE5146 /* PBShop.bundle */; };
 		A885D57F256CE0E400CE5146 /* FFAdSDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A885D57D256CE0E400CE5146 /* FFAdSDK.bundle */; };
 		A8902D6E2514924700F68058 /* libbz2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A8902D6D2514924700F68058 /* libbz2.tbd */; };
 		A8A28E112588996800CE9F7C /* PBMarketingBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A8A28E102588996800CE9F7C /* PBMarketingBundle.bundle */; };
@@ -84,6 +79,8 @@
 
 /* Begin PBXFileReference section */
 		A80AA3F225AFE175008D71B9 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
+		A80D5F1625EC85F7007CB875 /* PandaAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PandaAdSDK.framework; sourceTree = "<group>"; };
+		A80D5F1825EC8D18007CB875 /* PBShop.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PBShop.bundle; sourceTree = "<group>"; };
 		A81F88CE255A7E1700450DBB /* PandaRewardVideoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PandaRewardVideoViewController.h; sourceTree = "<group>"; };
 		A81F88CF255A7E1700450DBB /* PandaRewardVideoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PandaRewardVideoViewController.m; sourceTree = "<group>"; };
 		A81F88D4255A86DE00450DBB /* PandaNativeExpressAdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PandaNativeExpressAdViewController.h; sourceTree = "<group>"; };
@@ -94,19 +91,13 @@
 		A836AAA0256B8AF7007C2143 /* ADCDN.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ADCDN.bundle; sourceTree = "<group>"; };
 		A836AAA1256B8AF7007C2143 /* ADCDN.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ADCDN.framework; sourceTree = "<group>"; };
 		A836AAD2256B8AF8007C2143 /* infoHotKey.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = infoHotKey.plist; sourceTree = "<group>"; };
-		A836AAD3256B8AF8007C2143 /* PandaAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PandaAdSDK.framework; sourceTree = "<group>"; };
 		A836AAD5256B8AF8007C2143 /* PBADMJRefresh.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PBADMJRefresh.bundle; sourceTree = "<group>"; };
 		A836AAFE256B920F007C2143 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		A8592200259C436500FF9399 /* PBADPrizeListTableViewCell.nib */ = {isa = PBXFileReference; lastKnownFileType = file; path = PBADPrizeListTableViewCell.nib; sourceTree = "<group>"; };
 		A85E825925AEBBA80002D5CA /* FFAdSplash.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdSplash.framework; sourceTree = "<group>"; };
-		A85E825A25AEBBA80002D5CA /* FFAdStickVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdStickVideo.framework; sourceTree = "<group>"; };
-		A85E825B25AEBBA80002D5CA /* FFAdDrawVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdDrawVideo.framework; sourceTree = "<group>"; };
 		A85E825C25AEBBA80002D5CA /* FFAdExpress.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdExpress.framework; sourceTree = "<group>"; };
-		A85E825D25AEBBA80002D5CA /* FFAdBanner.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdBanner.framework; sourceTree = "<group>"; };
 		A85E825E25AEBBA80002D5CA /* FFAdRewardVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdRewardVideo.framework; sourceTree = "<group>"; };
-		A85E825F25AEBBA90002D5CA /* FFAdInsert.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdInsert.framework; sourceTree = "<group>"; };
 		A85E826025AEBBA90002D5CA /* FFAdNative.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdNative.framework; sourceTree = "<group>"; };
-		A85E826125AEBBA90002D5CA /* FFAdFullScreen.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdFullScreen.framework; sourceTree = "<group>"; };
 		A85E826B25AEBBBB0002D5CA /* FFAdTTAdapter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdTTAdapter.framework; sourceTree = "<group>"; };
 		A85E826C25AEBBBB0002D5CA /* FFAdGDTAdapter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdGDTAdapter.framework; sourceTree = "<group>"; };
 		A85E829625AED99E0002D5CA /* FFAdSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FFAdSDK.framework; sourceTree = "<group>"; };
@@ -158,7 +149,6 @@
 		A87FF0EB2420957F00EB274B /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
 		A87FF0ED2420959100EB274B /* libz.1.2.5.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.1.2.5.tbd; path = usr/lib/libz.1.2.5.tbd; sourceTree = SDKROOT; };
 		A87FF1402420976A00EB274B /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
-		A885D532256CA95000CE5146 /* PBShop.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PBShop.bundle; sourceTree = "<group>"; };
 		A885D57D256CE0E400CE5146 /* FFAdSDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = FFAdSDK.bundle; sourceTree = "<group>"; };
 		A8902D6D2514924700F68058 /* libbz2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libbz2.tbd; path = usr/lib/libbz2.tbd; sourceTree = SDKROOT; };
 		A8A28E102588996800CE9F7C /* PBMarketingBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PBMarketingBundle.bundle; sourceTree = "<group>"; };
@@ -212,9 +202,8 @@
 				A87FF0EE2420959100EB274B /* libz.1.2.5.tbd in Frameworks */,
 				A87FF0AA2420943700EB274B /* libz.tbd in Frameworks */,
 				A87FF0EC2420957F00EB274B /* libxml2.tbd in Frameworks */,
-				A836AAEC256B8AF8007C2143 /* PandaAdSDK.framework in Frameworks */,
 				A87FF0EA2420957300EB274B /* WebKit.framework in Frameworks */,
-				A85E826325AEBBA90002D5CA /* FFAdStickVideo.framework in Frameworks */,
+				A80D5F1725EC85F7007CB875 /* PandaAdSDK.framework in Frameworks */,
 				A87FF0E22420955600EB274B /* UIKit.framework in Frameworks */,
 				A836AAD6256B8AF8007C2143 /* WebP.framework in Frameworks */,
 				A87FF0E02420954E00EB274B /* SystemConfiguration.framework in Frameworks */,
@@ -226,15 +215,12 @@
 				A87FF0D02420950700EB274B /* MediaPlayer.framework in Frameworks */,
 				A87FF0CE2420950000EB274B /* ImageIO.framework in Frameworks */,
 				A87FF0CA242094EF00EB274B /* CoreTelephony.framework in Frameworks */,
-				A85E826625AEBBA90002D5CA /* FFAdBanner.framework in Frameworks */,
 				A87FF0C8242094E700EB274B /* CoreMotion.framework in Frameworks */,
 				A87FF0C6242094DF00EB274B /* CoreMedia.framework in Frameworks */,
 				A87FF0C4242094D700EB274B /* CoreLocation.framework in Frameworks */,
 				A87FF0C2242094CE00EB274B /* CoreGraphics.framework in Frameworks */,
 				A87FF0C0242094C000EB274B /* AdSupport.framework in Frameworks */,
-				A85E826A25AEBBA90002D5CA /* FFAdFullScreen.framework in Frameworks */,
 				A87FF0BE242094AE00EB274B /* AVFoundation.framework in Frameworks */,
-				A85E826825AEBBA90002D5CA /* FFAdInsert.framework in Frameworks */,
 				A85E826925AEBBA90002D5CA /* FFAdNative.framework in Frameworks */,
 				A85E826D25AEBBBB0002D5CA /* FFAdTTAdapter.framework in Frameworks */,
 				A836AAD8256B8AF8007C2143 /* ADCDN.framework in Frameworks */,
@@ -243,7 +229,6 @@
 				A85E829725AED99E0002D5CA /* FFAdSDK.framework in Frameworks */,
 				A87FF0AC2420944B00EB274B /* libc++.tbd in Frameworks */,
 				A8E85F8825D0E6BB006D3DD9 /* BUFoundation.framework in Frameworks */,
-				A85E826425AEBBA90002D5CA /* FFAdDrawVideo.framework in Frameworks */,
 				A85E826225AEBBA90002D5CA /* FFAdSplash.framework in Frameworks */,
 				A87FF0A82420942D00EB274B /* libsqlite3.tbd in Frameworks */,
 			);
@@ -298,15 +283,10 @@
 		A836AAA2256B8AF7007C2143 /* FFAdSDKModule */ = {
 			isa = PBXGroup;
 			children = (
-				A85E825D25AEBBA80002D5CA /* FFAdBanner.framework */,
-				A85E825B25AEBBA80002D5CA /* FFAdDrawVideo.framework */,
 				A85E825C25AEBBA80002D5CA /* FFAdExpress.framework */,
-				A85E826125AEBBA90002D5CA /* FFAdFullScreen.framework */,
-				A85E825F25AEBBA90002D5CA /* FFAdInsert.framework */,
 				A85E826025AEBBA90002D5CA /* FFAdNative.framework */,
 				A85E825E25AEBBA80002D5CA /* FFAdRewardVideo.framework */,
 				A85E825925AEBBA80002D5CA /* FFAdSplash.framework */,
-				A85E825A25AEBBA80002D5CA /* FFAdStickVideo.framework */,
 			);
 			path = FFAdSDKModule;
 			sourceTree = "<group>";
@@ -314,13 +294,13 @@
 		A836AAD0256B8AF8007C2143 /* PandaAdSDK */ = {
 			isa = PBXGroup;
 			children = (
+				A80D5F1825EC8D18007CB875 /* PBShop.bundle */,
+				A80D5F1625EC85F7007CB875 /* PandaAdSDK.framework */,
 				A8592200259C436500FF9399 /* PBADPrizeListTableViewCell.nib */,
 				A8F11FEE2589DB5E0038BCB2 /* PBADAvtivityListViewController.nib */,
 				A8F11FEF2589DB5E0038BCB2 /* PBADHomeActivityCell.nib */,
 				A8A28E102588996800CE9F7C /* PBMarketingBundle.bundle */,
-				A885D532256CA95000CE5146 /* PBShop.bundle */,
 				A836AAD2256B8AF8007C2143 /* infoHotKey.plist */,
-				A836AAD3256B8AF8007C2143 /* PandaAdSDK.framework */,
 				A836AAD5256B8AF8007C2143 /* PBADMJRefresh.bundle */,
 			);
 			path = PandaAdSDK;
@@ -574,10 +554,10 @@
 				A8A28E112588996800CE9F7C /* PBMarketingBundle.bundle in Resources */,
 				A836AAD7256B8AF8007C2143 /* ADCDN.bundle in Resources */,
 				A8E85F8925D0E6BB006D3DD9 /* BUAdSDK.bundle in Resources */,
+				A80D5F1925EC8D18007CB875 /* PBShop.bundle in Resources */,
 				A87FF08F242079DD00EB274B /* LaunchScreen.storyboard in Resources */,
 				A87FF08C242079DD00EB274B /* Assets.xcassets in Resources */,
 				A8F11FF12589DB5E0038BCB2 /* PBADHomeActivityCell.nib in Resources */,
-				A885D533256CA95100CE5146 /* PBShop.bundle in Resources */,
 				A836AAEE256B8AF8007C2143 /* PBADMJRefresh.bundle in Resources */,
 				A8592201259C436500FF9399 /* PBADPrizeListTableViewCell.nib in Resources */,
 				A8F11FF02589DB5E0038BCB2 /* PBADAvtivityListViewController.nib in Resources */,

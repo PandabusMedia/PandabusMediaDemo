@@ -1,6 +1,0 @@
-framework module FFAdExpress {
-  umbrella header "FFAdExpress.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module PandaAdSDK {
-  umbrella header "PandaAdSDK.h"
-
-  export *
-  module * { export * }
-}

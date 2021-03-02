@@ -254,7 +254,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		saFxTPB0M5YqEaRIVTydO2LxT7I=
+		tS9nKJrSYnhLhdt5yv8iDxDFeeo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -262,15 +262,15 @@
 		</data>
 		<key>PBADAvtivityListViewController.nib/objects-11.0+.nib</key>
 		<data>
-		jNdwemNr7JwJnM1xtGZdtlkU4Wo=
+		seL6RjXYE0csjHPE9poYg2vxHR8=
 		</data>
 		<key>PBADAvtivityListViewController.nib/runtime.nib</key>
 		<data>
-		9Fhpevz4UANMG1mkbOaLQD+URuM=
+		7PUy2d5k2riJs1nbbVy/LFgkhGc=
 		</data>
 		<key>PBADHomeActivityCell.nib</key>
 		<data>
-		D9DoFcQVRdPkU/efD+as+SQFVuw=
+		9jHMniDMHu2AwgMWTav+/u3Vgdg=
 		</data>
 		<key>PBADMJRefresh.bundle/arrow@2x.png</key>
 		<data>
@@ -314,7 +314,7 @@
 		</dict>
 		<key>PBADPrizeListTableViewCell.nib</key>
 		<data>
-		cr5Ado7tX2jtPu2iByAXnVJOjqQ=
+		TUwVU39VkAykmhMcvUt4yIZ7AP4=
 		</data>
 		<key>PBMarketingBundle.bundle/activeType_prize.png</key>
 		<data>
@@ -428,27 +428,11 @@
 		<data>
 		8d2ePEUa82fyGwhSlNtbAesftN8=
 		</data>
-		<key>PBShop.bundle/guanbi@2x.png</key>
-		<data>
-		m1xCDvdWQnNnVn1nIOv8O8GtTTU=
-		</data>
-		<key>PBShop.bundle/guanbi@3x.png</key>
-		<data>
-		vJedyLFLaxCbdYTdKVtRvtO+6lQ=
-		</data>
-		<key>PBShop.bundle/ic_back@2x.png</key>
-		<data>
-		ervHiozluURn1X7uPdKupJ5SZtM=
-		</data>
-		<key>PBShop.bundle/ic_back@3x.png</key>
-		<data>
-		huRBqX0dhT1QsKLYImDN1xm5tIM=
-		</data>
-		<key>PBShop.bundle/ic_back_dark@2x.png</key>
+		<key>PBShop.bundle/pbad_ic_back@2x.png</key>
 		<data>
 		GUVD0QYoytADnyROhTc4f/BjMMM=
 		</data>
-		<key>PBShop.bundle/ic_finish@2x.png</key>
+		<key>PBShop.bundle/pbad_ic_finish@2x.png</key>
 		<data>
 		xKbpPwZ6UkOKW5dUPzlAesLe+zU=
 		</data>
@@ -1156,33 +1140,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jNdwemNr7JwJnM1xtGZdtlkU4Wo=
+			seL6RjXYE0csjHPE9poYg2vxHR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RKca32JSgLsi3ahVbvgwDcLZaawLYZxBMc4LW8ZxsbY=
+			lKrKR4RrnhukLyjBFQsLHQpegmERQ53sB39IbiOUXnI=
 			</data>
 		</dict>
 		<key>PBADAvtivityListViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9Fhpevz4UANMG1mkbOaLQD+URuM=
+			7PUy2d5k2riJs1nbbVy/LFgkhGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			H+3J964CGiXB4Z+4up1bzNGMrymVNqN9xsVycJbqjb4=
+			i4/6IVLnAqkq3eswik+jzPHs1C8+HhD6ln8BTiWUZGc=
 			</data>
 		</dict>
 		<key>PBADHomeActivityCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D9DoFcQVRdPkU/efD+as+SQFVuw=
+			9jHMniDMHu2AwgMWTav+/u3Vgdg=
 			</data>
 			<key>hash2</key>
 			<data>
-			0eABozIa4QiTgXL21cyeab3Ljdgk1FYy3cPsoQQFG94=
+			b+1RrneyUUVSR2EYQGASXl57bGJx54yNduCWfbAz790=
 			</data>
 		</dict>
 		<key>PBADMJRefresh.bundle/arrow@2x.png</key>
@@ -1252,11 +1236,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cr5Ado7tX2jtPu2iByAXnVJOjqQ=
+			TUwVU39VkAykmhMcvUt4yIZ7AP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			k5IFpIfN6mJzMX48YjqfBBo5EGdWt37EtYdvA3imdhY=
+			DBXkKL1Hu6dy7xIZqbJOmSTPqmeegphv3YhLnXFB73s=
 			</data>
 		</dict>
 		<key>PBMarketingBundle.bundle/activeType_prize.png</key>
@@ -1567,51 +1551,7 @@
 			yBfej/Lr/9KazAXBI8U8L6B9wwIMD2WaDJsvB7jSvto=
 			</data>
 		</dict>
-		<key>PBShop.bundle/guanbi@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m1xCDvdWQnNnVn1nIOv8O8GtTTU=
-			</data>
-			<key>hash2</key>
-			<data>
-			w0ADP1ZzKVGYZ+8vBC8TRqWm9fCBQOrz1FFPO5DjCcg=
-			</data>
-		</dict>
-		<key>PBShop.bundle/guanbi@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vJedyLFLaxCbdYTdKVtRvtO+6lQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			2klkiflCHjXoc70dYG9WjNFBFGrgw0MNGol4rhsHi9E=
-			</data>
-		</dict>
-		<key>PBShop.bundle/ic_back@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ervHiozluURn1X7uPdKupJ5SZtM=
-			</data>
-			<key>hash2</key>
-			<data>
-			j4yjJLzNNKcjKiVeB6uiMmXaBa2QvXRkwiLtyClXFBE=
-			</data>
-		</dict>
-		<key>PBShop.bundle/ic_back@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			huRBqX0dhT1QsKLYImDN1xm5tIM=
-			</data>
-			<key>hash2</key>
-			<data>
-			QOfRFQb82h5cqhdieb/rkjrTY/lWqtjQA+g03a4MJT8=
-			</data>
-		</dict>
-		<key>PBShop.bundle/ic_back_dark@2x.png</key>
+		<key>PBShop.bundle/pbad_ic_back@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1622,7 +1562,7 @@
 			snh+iwP1DNh2xSN/GEYyk/tMd7YlZ6Ph5PikJAnjaUE=
 			</data>
 		</dict>
-		<key>PBShop.bundle/ic_finish@2x.png</key>
+		<key>PBShop.bundle/pbad_ic_finish@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>

@@ -1,6 +1,0 @@
-framework module FFAdRewardVideo {
-  umbrella header "FFAdRewardVideo.h"
-
-  export *
-  module * { export * }
-}
