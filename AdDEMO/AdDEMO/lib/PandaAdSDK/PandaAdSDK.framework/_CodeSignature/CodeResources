@@ -218,23 +218,27 @@
 		</data>
 		<key>Headers/PBADShopActivityManager.h</key>
 		<data>
-		cfMAb0qPv9aN3U57QGZAVO7D2Cc=
+		ZiBSfc0wphQ++HV6ZwThQX+u4gU=
 		</data>
 		<key>Headers/PBADShopActivityModel.h</key>
 		<data>
-		/gMq6xnQf6ESM2ecVJaYPQPXMno=
+		o52/umVgoGISpwt9aAVfhlorcmE=
 		</data>
 		<key>Headers/PBAdInfoMainCtrl.h</key>
 		<data>
 		lwDv1dBK1o30VqBPpvqGFdLSuUI=
 		</data>
+		<key>Headers/PBShopActiveWebViewController.h</key>
+		<data>
+		IpMaRDgYdXUuZD9xbr+6QZIpNjk=
+		</data>
 		<key>Headers/PBShopWebViewController.h</key>
 		<data>
-		xIFDmxjugEbGB+89aXLbkr7Z7vU=
+		E5+XTUVnnk8gGP8y1Z2hXTd9r/U=
 		</data>
 		<key>Headers/PandaAdSDK.h</key>
 		<data>
-		DqLi/FTdNWEenQGaGeV3mY0IcUc=
+		r9moTe0J10yKbTqHlD+t4jsJV/w=
 		</data>
 		<key>Headers/PandaConfigManager.h</key>
 		<data>
@@ -262,15 +266,15 @@
 		</data>
 		<key>PBADAvtivityListViewController.nib/objects-11.0+.nib</key>
 		<data>
-		seL6RjXYE0csjHPE9poYg2vxHR8=
+		7YuwWowKVNM6aXRY7xSDCeZifWc=
 		</data>
 		<key>PBADAvtivityListViewController.nib/runtime.nib</key>
 		<data>
-		7PUy2d5k2riJs1nbbVy/LFgkhGc=
+		VpWfBBsy58V+6QkQ03CAxV5mir8=
 		</data>
 		<key>PBADHomeActivityCell.nib</key>
 		<data>
-		9jHMniDMHu2AwgMWTav+/u3Vgdg=
+		IFjCZcc5lWYL75Rw1Rbe1rJgvHc=
 		</data>
 		<key>PBADMJRefresh.bundle/arrow@2x.png</key>
 		<data>
@@ -314,7 +318,7 @@
 		</dict>
 		<key>PBADPrizeListTableViewCell.nib</key>
 		<data>
-		TUwVU39VkAykmhMcvUt4yIZ7AP4=
+		pJ2HZt+tcEPUKqZti+EkG9OFf1E=
 		</data>
 		<key>PBMarketingBundle.bundle/activeType_prize.png</key>
 		<data>
@@ -430,15 +434,15 @@
 		</data>
 		<key>PBShop.bundle/pbad_ic_back@2x.png</key>
 		<data>
-		GUVD0QYoytADnyROhTc4f/BjMMM=
+		ervHiozluURn1X7uPdKupJ5SZtM=
 		</data>
 		<key>PBShop.bundle/pbad_ic_finish@2x.png</key>
 		<data>
-		xKbpPwZ6UkOKW5dUPzlAesLe+zU=
+		QCg9D9eYPbVfCrZQE9M8qAI//iI=
 		</data>
 		<key>infoHotKey.plist</key>
 		<data>
-		p4UHagnPjq6hevcZ6MXITXK6Zbc=
+		8RN7+5khzZrPRLPaehIZUY+jbA8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1030,22 +1034,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cfMAb0qPv9aN3U57QGZAVO7D2Cc=
+			ZiBSfc0wphQ++HV6ZwThQX+u4gU=
 			</data>
 			<key>hash2</key>
 			<data>
-			0vmxVg1+e6USIrFcOCnmLsq0wGE0c8s268TxM94Bb9A=
+			+aV5m4IP2tDwZAD+luzHEueqPQ+lV+bvLSvyZzpOkJE=
 			</data>
 		</dict>
 		<key>Headers/PBADShopActivityModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/gMq6xnQf6ESM2ecVJaYPQPXMno=
+			o52/umVgoGISpwt9aAVfhlorcmE=
 			</data>
 			<key>hash2</key>
 			<data>
-			qsg2ajPXPJZriULdQl+ZlzJ86vz9NM1cHpBLzM5YVfg=
+			A00Em73R1wIeBnl0RlERoN3El8oiM4L5hL9qAuKwwHA=
 			</data>
 		</dict>
 		<key>Headers/PBAdInfoMainCtrl.h</key>
@@ -1059,26 +1063,37 @@
 			EyJHEE9WdJTVGbUq0Dyql6G8ByQ9uJqvk6Ny8kCaGAw=
 			</data>
 		</dict>
+		<key>Headers/PBShopActiveWebViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IpMaRDgYdXUuZD9xbr+6QZIpNjk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pd3dNKNIDj3vCbe+mNB++SXNAjl/7XKRihtv96bzmtA=
+			</data>
+		</dict>
 		<key>Headers/PBShopWebViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xIFDmxjugEbGB+89aXLbkr7Z7vU=
+			E5+XTUVnnk8gGP8y1Z2hXTd9r/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			0mHhLd4xmYwb2lU8aFiQyJLuhwbfxfkXPIHM1i3qKaU=
+			iHR+m3L+zlkUKvJAvv1oH+RG2NQitemWFT4eR3htKzM=
 			</data>
 		</dict>
 		<key>Headers/PandaAdSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DqLi/FTdNWEenQGaGeV3mY0IcUc=
+			r9moTe0J10yKbTqHlD+t4jsJV/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			QOVCDMg9it1CqsZIH7lVYbn8Xk/JxszUf9nNfygV3JY=
+			AKnKK4YSdfdEagYenTcefIuAlbRvYPHYsW3bLyusP7I=
 			</data>
 		</dict>
 		<key>Headers/PandaConfigManager.h</key>
@@ -1140,33 +1155,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			seL6RjXYE0csjHPE9poYg2vxHR8=
+			7YuwWowKVNM6aXRY7xSDCeZifWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			lKrKR4RrnhukLyjBFQsLHQpegmERQ53sB39IbiOUXnI=
+			hXyiLXGIHR9THASanf6yHiiZ0jBkNGLDEH5rjpHQibY=
 			</data>
 		</dict>
 		<key>PBADAvtivityListViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7PUy2d5k2riJs1nbbVy/LFgkhGc=
+			VpWfBBsy58V+6QkQ03CAxV5mir8=
 			</data>
 			<key>hash2</key>
 			<data>
-			i4/6IVLnAqkq3eswik+jzPHs1C8+HhD6ln8BTiWUZGc=
+			FVJW3lAujWcAGdDb8m2r/HeX48PNuOEawAeCImZCT7k=
 			</data>
 		</dict>
 		<key>PBADHomeActivityCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9jHMniDMHu2AwgMWTav+/u3Vgdg=
+			IFjCZcc5lWYL75Rw1Rbe1rJgvHc=
 			</data>
 			<key>hash2</key>
 			<data>
-			b+1RrneyUUVSR2EYQGASXl57bGJx54yNduCWfbAz790=
+			QQNMORqjNLa5F5bH3SqU6ADuhytWPsCyvh/qLnWQFJ4=
 			</data>
 		</dict>
 		<key>PBADMJRefresh.bundle/arrow@2x.png</key>
@@ -1236,11 +1251,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TUwVU39VkAykmhMcvUt4yIZ7AP4=
+			pJ2HZt+tcEPUKqZti+EkG9OFf1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			DBXkKL1Hu6dy7xIZqbJOmSTPqmeegphv3YhLnXFB73s=
+			c8g5IPl29XZ3B5+Sn95AdU4XrQZ/ACI9bX1pAhfv7BM=
 			</data>
 		</dict>
 		<key>PBMarketingBundle.bundle/activeType_prize.png</key>
@@ -1555,33 +1570,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GUVD0QYoytADnyROhTc4f/BjMMM=
+			ervHiozluURn1X7uPdKupJ5SZtM=
 			</data>
 			<key>hash2</key>
 			<data>
-			snh+iwP1DNh2xSN/GEYyk/tMd7YlZ6Ph5PikJAnjaUE=
+			j4yjJLzNNKcjKiVeB6uiMmXaBa2QvXRkwiLtyClXFBE=
 			</data>
 		</dict>
 		<key>PBShop.bundle/pbad_ic_finish@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xKbpPwZ6UkOKW5dUPzlAesLe+zU=
+			QCg9D9eYPbVfCrZQE9M8qAI//iI=
 			</data>
 			<key>hash2</key>
 			<data>
-			j/jKJ/2A4nJOd8bEYNtSyDJ3VpdRxVDSLZJIUe3EIe0=
+			8MaVu7Gp4IOMh3xs/h7OKQCGkAT7SpTyOfot1e4OUSA=
 			</data>
 		</dict>
 		<key>infoHotKey.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p4UHagnPjq6hevcZ6MXITXK6Zbc=
+			8RN7+5khzZrPRLPaehIZUY+jbA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			E4OrhqvvBuzsgxGvpW5BJ59r/Ez7MVUlZJbpUWUN5bo=
+			Su7yQSGFh+SdmVAVnx/FQIGUVNpc5hBEiYcobYoC4lI=
 			</data>
 		</dict>
 	</dict>

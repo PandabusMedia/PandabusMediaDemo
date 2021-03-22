@@ -15,6 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) NSString *clickUrl;
 // 图片url
 @property (nonatomic, copy) NSString *imgUrl;
+// 弹窗id
+@property (nonatomic, copy) NSString *popupId;
 @end
 
 NS_ASSUME_NONNULL_END

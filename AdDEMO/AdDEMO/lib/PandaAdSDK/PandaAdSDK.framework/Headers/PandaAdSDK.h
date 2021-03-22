@@ -26,5 +26,7 @@ FOUNDATION_EXPORT const unsigned char PandaAdSDKVersionString[];
 #import "PBADAvtivityListViewController.h"
 #import "PBADShopActivityManager.h"
 #import "PBADShopActivityModel.h"
+#import "PBShopActiveWebViewController.h"
+
 
 

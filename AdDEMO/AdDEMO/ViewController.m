@@ -110,7 +110,7 @@
             
         case 4:
         {
-            ctrl = [[PBShopWebViewController alloc] initWithTitle:@"" webViewHeight:[UIScreen mainScreen].bounds.size.height];
+            ctrl = [[PBShopWebViewController alloc] initWithTitle:@"" iconColor:[UIColor blackColor] webViewHeight:[UIScreen mainScreen].bounds.size.height];
             
         }
             break;

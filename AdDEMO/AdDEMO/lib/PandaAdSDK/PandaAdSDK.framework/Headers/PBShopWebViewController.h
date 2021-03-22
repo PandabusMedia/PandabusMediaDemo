@@ -13,8 +13,11 @@
 /**
  *  title - 头部标题
  *  webViewHeight - webView高度，内部webView.frame = CGRectMake(0, 0, ScreenWidth, webViewHeight)
+ *  iconColor - iconColor颜色
 */
-- (instancetype)initWithTitle:(NSString *)title webViewHeight:(CGFloat)webViewHeight;
+- (instancetype)initWithTitle:(NSString *)title
+                    iconColor:(UIColor *)iconColor
+                webViewHeight:(CGFloat)webViewHeight;
 
 @end
 
